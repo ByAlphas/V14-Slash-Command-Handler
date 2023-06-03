@@ -2,10 +2,10 @@
     "prefix": ".",
     "owner": "755692726074343424",
     "developergroup": ["755692726074343424",""],
-    "token": "token",
+    "token": "TOKEN",
     "cooldown": "0",
     "activity": "Developed by Alpha",
-    "mongoDB": "mongodb+srv://Alpha:hack-adam@cluster0.3qxxbba.mongodb.net/?retryWrites=true&w=majority"
+    "mongoDB": "MONGO"
 
 
 
