@@ -1,0 +1,21 @@
+{
+  "name": "alpha-v14-system",
+  "version": "1.0.0",
+  "description": "Created by Alpha",
+  "main": "alpha.js",
+  "scripts": {
+    "test": "node alpha.js"
+  },
+  "keywords": [
+    "MongoDataBase",
+    "Fast",
+    "Alpha's system"
+  ],
+  "author": "byalpha",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "moment": "^2.30.1",
+    "mongoose": "^8.16.1"
+  }
+}
